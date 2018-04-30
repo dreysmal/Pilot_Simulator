@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Pilot_Simulator\Pilot_Simulator\bin\Debug\Pilot_Simulator.exe.config
+C:\Users\User\source\repos\Pilot_Simulator\Pilot_Simulator\bin\Debug\Pilot_Simulator.exe
+C:\Users\User\source\repos\Pilot_Simulator\Pilot_Simulator\bin\Debug\Pilot_Simulator.pdb
+C:\Users\User\source\repos\Pilot_Simulator\Pilot_Simulator\obj\Debug\Pilot_Simulator.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Pilot_Simulator\Pilot_Simulator\obj\Debug\Pilot_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pilot_Simulator\Pilot_Simulator\obj\Debug\Pilot_Simulator.exe
+C:\Users\User\source\repos\Pilot_Simulator\Pilot_Simulator\obj\Debug\Pilot_Simulator.pdb
+C:\Users\smal\Documents\Visual Studio 2017\Projects\Pilot_Simulator\Pilot_Simulator\bin\Debug\Pilot_Simulator.exe.config
+C:\Users\smal\Documents\Visual Studio 2017\Projects\Pilot_Simulator\Pilot_Simulator\bin\Debug\Pilot_Simulator.exe
+C:\Users\smal\Documents\Visual Studio 2017\Projects\Pilot_Simulator\Pilot_Simulator\bin\Debug\Pilot_Simulator.pdb
+C:\Users\smal\Documents\Visual Studio 2017\Projects\Pilot_Simulator\Pilot_Simulator\obj\Debug\Pilot_Simulator.csprojResolveAssemblyReference.cache
+C:\Users\smal\Documents\Visual Studio 2017\Projects\Pilot_Simulator\Pilot_Simulator\obj\Debug\Pilot_Simulator.exe
+C:\Users\smal\Documents\Visual Studio 2017\Projects\Pilot_Simulator\Pilot_Simulator\obj\Debug\Pilot_Simulator.pdb
